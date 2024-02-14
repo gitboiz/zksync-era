@@ -31,7 +31,7 @@ license.
 ## Resources
 
 We aim to make it as easy as possible to contribute to the mission. This is still WIP, and we're happy for contributions
-and suggestions here too. Some resources to help:
+and suggestions here too. Some resources to help you:
 
 1. [In-repo docs aimed at developers](docs)
 2. [zkSync Era docs!](https://era.zksync.io/docs/)
